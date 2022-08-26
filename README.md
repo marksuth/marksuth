@@ -1,6 +1,6 @@
 ### Hi, I'm Mark Sutherland
 
-I'm a Web & Mobile, Developer & Digital Creative based in Leicester, UK.
+I'm a Web & Mobile Developer & Digital Creative based in Leicester, UK.
 
 My personal site can be found at [marksuth.dev](https://marksuth.dev), where I post on a fairly regular basis about the projects I'm working on and stuff that interests me.
 
